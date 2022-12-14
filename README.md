@@ -2,7 +2,7 @@
 
 ### Sobre
 
-Desenvolvimento de uma aplicação com intuito de auxiliar restaurantes a controlar seus pedidos, permitindo através de um App, realizar os pedidos e automaticamente serem enviados para um Dashboard Web em tempo real.
+Desenvolvimento de uma aplicação para auxiliar restaurantes a controlarem seus pedidos, permitindo através de um App realizar os pedidos dos clientes e automaticamente serem enviados para um Dashboard Web em tempo real.
 
 ---
 ### Pré-requisitos
@@ -23,6 +23,6 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 
 
 ---
- <h3 align="left">Autoria</h3>
+ ### Autoria
 
 <p>Feito com ❤️ por Vanessa.</p>
