@@ -14,12 +14,12 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 ---
 ### Tecnologias
 
-- [React.js](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [Node.js](https://nodejs.org/en/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Expo](https://expo.dev/)
+- [Docker](https://www.docker.com/)
 - [MongoDB](https://www.mongodb.com/home)
+- [Socket.IO](https://socket.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Multer](https://www.npmjs.com/package/multer)
 
 
 ---
