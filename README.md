@@ -1,15 +1,9 @@
-<h1 align="center">Waiter App 👩🏻‍🍳</h1>​
+<h1 align="center">Waiter App 👩🏻‍🍳</h1>
 
 ### Sobre
 
+Parte 01 - API. <br>
 Desenvolvimento de uma aplicação para auxiliar restaurantes a controlarem seus pedidos, permitindo através de um App realizar os pedidos dos clientes e automaticamente serem enviados para um Dashboard Web em tempo real.
-
----
-### Pré-requisitos
-
-Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas:
-
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ---
 ### Tecnologias
